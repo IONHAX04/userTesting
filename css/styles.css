@@ -1,0 +1,23 @@
+/* styles.css */
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    margin-left: 10px;
+}
+
+.nowTrending {
+    margin: 20px 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.accordion-button::after {
+    background-image: none;
+}

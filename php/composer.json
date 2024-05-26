@@ -1,0 +1,13 @@
+{
+    "name": "ionhax/testing",
+    "type": "manga",
+    "authors": [
+        {
+            "name": "IONHAX04",
+            "email": "thirukumara04@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
